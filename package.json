@@ -1,0 +1,30 @@
+{
+  "name": "es6-express",
+  "version": "2.0.0",
+  "description": "es6+express project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon bin/www.js --exec babel-node"
+  },
+  "keywords": [
+    "es6",
+    "express"
+  ],
+  "author": "vxhly <904334946@qq.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-stage-2": "^6.22.0",
+    "body-parser": "^1.17.1",
+    "connect-multiparty": "^2.0.0",
+    "cookie-parser": "^1.4.3",
+    "debug": "^2.6.3",
+    "express": "^4.15.2",
+    "jade": "^1.11.0",
+    "morgan": "^1.8.1",
+    "nodemon": "^1.11.0",
+    "serve-favicon": "^2.4.2"
+  }
+}
