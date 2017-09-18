@@ -1,6 +1,6 @@
 {
   "name": "es6-express",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "es6+express project",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "es6",
     "express"
   ],
-  "author": "vxhly <904334946@qq.com>",
+  "author": "vxhly <pengchengou@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.24.1",
